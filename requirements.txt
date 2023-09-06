@@ -1,0 +1,7 @@
+tensorflow
+requests
+numpy
+grpcio
+# tensorflow_serving_api
+tensorflow-serving-api-python3
+protobuf==3.20.*
